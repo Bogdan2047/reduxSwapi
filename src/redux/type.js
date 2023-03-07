@@ -1,0 +1,5 @@
+export const GET_ALL_FILMS = "GET_ALL_FILMS";
+export const LOADING = "GET_FILM";
+export const GET_FILM_SUCCESS = "GET_FILM_SUCCESS";
+export const GET_CHARACTERS_ALL = "GET_CHARACTERS_ALL";
+export const GET_CHARACTER = "GET_CHARACTER";
